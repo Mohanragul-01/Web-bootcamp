@@ -5,7 +5,7 @@ This repository contains a collection of beginner-friendly web development proje
 ## Projects
 
 ### 1. Personal Site
-A multi-page personal website created using HTML and CSS, focusing on basic HTML structuring and CSS styling.
+A personal website created using HTML and CSS, focusing on basic HTML structuring and CSS styling.
 
 ### 2. Tindog
 A parody website similar to Tinder but for dogs, utilizing HTML, CSS, and Bootstrap for responsive design.
