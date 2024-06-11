@@ -1,5 +1,4 @@
-```markdown
-# Web Development Bootcamp Projects
+## Web Development Bootcamp Projects
 
 This repository contains a collection of beginner-friendly web development projects created as part of Angela Yu's "The Complete 2023 Web Development Bootcamp". Each project is designed to help solidify key concepts and skills in HTML, CSS, JavaScript, and Bootstrap.
 
@@ -24,7 +23,7 @@ A clone of the classic Simon game where users repeat sequences of colors, involv
 
 To get started with any of these projects, simply clone the repository and open the project folder in your preferred code editor.
 
-```bash
+```
 git clone https://github.com/Mohanragul-01/web-bootcamp.git
 cd web-bootcamp
 ```
@@ -39,6 +38,3 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-
-Happy coding!
-```
